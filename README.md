@@ -1,2 +1,0 @@
-# killer
-Ready to kill
